@@ -1,3 +1,3 @@
 STrongo
 
-Negrito intacto
+Negrito intactod
