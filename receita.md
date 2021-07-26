@@ -1,3 +1,0 @@
-STrongo
-
-Negrito intactod
